@@ -5,8 +5,10 @@
 
 A responsividade desse site fica no styles.css dentro do trecho de código:
 
+````
 @media (max-width: 480px) {
 ...
 }
+````
 
-Quando a tela diminui para tal resolução o site ganha as caracteristicas especificadas dentro desse trecho citado acima.
+Quando a tela diminui para tal resolução (480px) o site ganha as caracteristicas especificadas dentro desse trecho acima.
