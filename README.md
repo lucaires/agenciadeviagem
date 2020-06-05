@@ -3,7 +3,7 @@
 
 ![alt text](https://i.ibb.co/nB6rkx3/template.png)
 
-A responsividade desse site fica no styles.css dentro do trecho de código:
+A responsividade desse site fica no styles.css em:
 
 ````
 @media (max-width: 480px) {
