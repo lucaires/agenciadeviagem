@@ -1,0 +1,12 @@
+# Site simples agencia de viagens
+ * Site html e css responsivo
+
+![alt text](https://i.ibb.co/nB6rkx3/template.png)
+
+A responsividade desse site fica no styles.css dentro do trecho de código:
+
+@media (max-width: 480px) {
+...
+}
+
+Quando a tela diminui para tal resolução o site ganha as caracteristicas especificadas dentro desse trecho citado acima.
