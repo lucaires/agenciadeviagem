@@ -1,9 +1,9 @@
-# Site simples agencia de viagens
- * Site html e css responsivo
+# Travel agency website
+A simple website with the purpose of showing responsiveness the following stack: HTML and CSS.
 
 ![alt text](https://i.ibb.co/nB6rkx3/template.png)
 
-A responsividade desse site fica no styles.css em:
+The responsiveness of this website is in styles.css at:
 
 ````
 @media (max-width: 480px) {
@@ -11,4 +11,4 @@ A responsividade desse site fica no styles.css em:
 }
 ````
 
-Quando a tela diminui para tal resolução (480px) o site ganha as caracteristicas especificadas dentro desse trecho acima.
+When the screen decreases to such a resolution (480px) the website gains the characteristics specified within this section above.
